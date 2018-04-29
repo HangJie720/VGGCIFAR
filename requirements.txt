@@ -1,4 +1,7 @@
 Keras==2.1.5
 matplotlib==2.2.2
 scikit-learn==0.19.1
-tensorflow==1.7.0
+tensorflow-gpu==1.8.0rc
+h5py==2.7.1
+pydotplus==2.0.2
+graphviz==0.8.2
