@@ -2,3 +2,4 @@ __pycache__
 *.py[co]
 .ipynb_checkpoints
 .DS_Store
+Resources/
